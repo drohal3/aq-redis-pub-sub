@@ -1,0 +1,13 @@
+[project]
+name = "pub_sub_drohal3"
+version = "0.0.1"
+authors = [
+  { name="Dominik Rohal", email="rohal.dominik.123@gmail.com" },
+]
+description = "Subscriber for redis pub/sub"
+readme = "README.md"
+requires-python = "3.11.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
